@@ -1,0 +1,2 @@
+# footballua-autotests
+UI autotests
